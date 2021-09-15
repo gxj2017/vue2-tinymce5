@@ -1,5 +1,7 @@
 # vue-admin-template
 
+## vue项目框架用别人的，里面主要对ckeditor、tinymce两个富文本编辑器的使用进行了实践，特别是tinymce富文本编辑器的二次开发进行了演示。
+
 English | [简体中文](./README-zh.md)
 
 > A minimal vue admin template with Element UI & axios & iconfont & permission control & lint
